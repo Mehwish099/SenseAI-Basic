@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.venv/
+.testdeps/
+.tmp/
+.nltk_data/
+__pycache__/
+*.py[cod]
+*.db
+.env
